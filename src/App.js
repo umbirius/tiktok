@@ -7,8 +7,6 @@ function App() {
 
     // Bem naming convention
     <div className="app">
-      <h1>Mern</h1>
-
       <div className="app__videos">
         <Video />
         <Video />
